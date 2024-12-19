@@ -1,0 +1,9 @@
+[{"title": "Buy groceries", "description": "Milk, Bread, Cheese", "due_date": "2023-10-15", "completed": false}, {"title": "Finish project", "description": "Complete the task organizer project", "due_date": "2023-10-20", "completed": false},
+{"title": "Go to the gym", "description": "Leg day", "due_date": "2023-10-25", "completed": false},
+{"title": "Read a book", "description": "The Alchemist", "due_date": "2023-10-30", "completed": false},
+{"title": "Watch a movie", "description": "The Matrix", "due_date": "2023-11-05", "completed": false},
+{"title": "Cook dinner", "description": "Pasta", "due_date": "2023-11-10", "completed": false},
+{"title": "Go for a walk", "description": "Park", "due_date": "2023-11-15", "completed": false},
+{"title": "Call a friend", "description": "John", "due_date": "2023-11-20", "completed": false},
+{"title": "Write a blog post", "description": "React vs Angular", "due_date": "2023-11-25", "completed": false},
+{"title": "Learn a new skill", "description": "Python", "due_date": "2023-11-30", "completed": false}]
