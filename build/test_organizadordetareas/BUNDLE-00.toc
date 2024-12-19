@@ -1,0 +1,3 @@
+([('test_organizadordetareas',
+   '/Users/carlagonzalez/Desktop/PROYECTOS/Proyectos/dist/test_organizadordetareas',
+   'EXECUTABLE')],)
