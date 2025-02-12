@@ -1,0 +1,27 @@
+# primer.yml
+version: '1.0'
+description: Este es mi primer archivo YAML
+
+proyecto:
+  nombre: "Proyecto de ML"
+  autor: "Carla Gonzalez"
+  fecha: "2023-10-05"
+
+configuracion:
+  entorno: "producción"
+  lenguaje: "Python"
+  librerias:
+    - numpy
+    - pandas
+    - scikit-learn
+
+datos:
+  fuente: "dataset.csv"
+  tamaño: "100MB"
+
+modelo:
+  tipo: "Regresión Lineal"
+  metrica: "MSE"
+
+
+  

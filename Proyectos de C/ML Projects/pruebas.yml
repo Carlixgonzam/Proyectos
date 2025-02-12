@@ -1,0 +1,7 @@
+import primer
+
+#En este archivo se harán pruebas como preguntas
+
+# ¿Cuál es el valor de la variable 'version' del archivo primer.yml?
+
+print(primer.version)
